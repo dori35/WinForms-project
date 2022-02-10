@@ -1,0 +1,20 @@
+15 20
+f f f f f f f f f f r f f f f f f f f f
+f f f f f f f f f f f f f f f f f f f f
+f f f f p f f f f f f f f f f f f f f f
+f f f f p f f f f f f f p f f f f f f f
+f f f f p f f f f f f f p f f f f f f r 
+f f f f f f f f f f f f p f f f f f f f
+d f f f f f f f f f f f p f f f f f f f
+f f f f f f f f f f f f p f f f f f r f
+r f f f f f f f f f f f p f f f f f f r
+f f f f f f f f f f f f p f f f f f f f
+d f f f f f f f f f f f p f f f f f f f
+f f f f f f f f f f f f f f f f f f f f
+d f f f f f f f f f f f f f f f f f f f
+f f f f f f f f f f f f f f f f f f f f
+f f f f f f f f f f D f D f D f D f f f
+170
+1 2 3 4
+4 3 1 2 3
+6 1 3

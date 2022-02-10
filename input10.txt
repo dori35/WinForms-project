@@ -1,0 +1,18 @@
+8 8
+f f d f d f f f 
+f f f f f f f f
+f f p f p f f D
+f f p f p f f f
+f f p f p f f D
+f f p f p f f f
+f f f f f f f D
+f f f r f r f f
+47
+1 2 1 3
+2 2 1 2
+3 1 3
+4 2 3 2
+5 2 1 3
+6 1 1
+7 2 1 2
+8 2 2 3

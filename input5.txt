@@ -1,0 +1,10 @@
+6 11
+f f f f f r f f f f f
+f f p p f p p f p p f
+d f p p f p p f p p f
+f f p p f p p f p p f
+f f f f f f f f f f f
+f D f D f D f D f f f
+50
+1 1 2 3 4
+1 1 2
